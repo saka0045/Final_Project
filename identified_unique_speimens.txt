@@ -1,0 +1,464 @@
+FMJJ01000012.131284.134557 Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus cereus	17090
+AY349157.1.1535 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Ruminococcus flavefaciens	3
+FJ705900.1.3394 Eukaryota;SAR;Rhizaria;Retaria;Foraminifera;Globothalamea;Rotaliida;Cibicidoides sp. 5227	80
+JQ207447.1.1340 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae UCG-002;uncultured bacterium	1
+FJ833922.1.1386 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae NK4A214 group;uncultured bacterium	1
+JQ771625.1.1353 Bacteria;Cyanobacteria;Oxyphotobacteria;Nostocales;Microcystaceae;Microcystis PCC-7914;Microcystis sp. RST 9501	2
+JQ765420.1.1438 Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus sp. MLB19	4
+AB034125.1.1380 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae UCG-002;uncultured rumen bacterium 4C28d-4	1
+AF376218.1.1334 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Subdoligranulum;uncultured bacterium	1
+FJ880395.1.1488 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Marvinbryantia;uncultured bacterium	1
+JQ207192.1.1353 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;[Eubacterium] fissicatena group;uncultured bacterium	1
+JX006261.1.1422 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;bacterium NLAE-zl-H10	26
+JQ941025.1.1455 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospira;uncultured bacterium	1
+JX629262.1.1454 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Roseburia;Roseburia sp. 831b	7
+AXCG01057693.9657.11040 Bacteria;Cyanobacteria;Oxyphotobacteria;Chloroplast;Gossypium barbadense (sea-island cotton)	3
+JX006302.1.1413 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Butyricicoccus;bacterium NLAE-zl-H55	12
+AB506139.1.1558 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae UCG-014;uncultured bacterium	1
+JX273468.1.1382 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerostipes;Anaerostipes rhamnosivorans	3
+DQ809695.1.1369 Bacteria;Firmicutes;Clostridia;Clostridiales;Family XIII;[Eubacterium] nodatum group;uncultured bacterium	1
+AB506396.1.1524 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;[Eubacterium] coprostanoligenes group;uncultured bacterium	1
+JQ820024.1.1350 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Acetivibrio;Acetivibrio cellulolyticus	10
+FJ976265.1.1390 Bacteria;Firmicutes;Negativicutes;Selenomonadales;Veillonellaceae;Dialister;uncultured Dialister sp.	1
+AY984343.1.1328 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 6;uncultured bacterium	1
+FJ951881.1.1468 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;[Eubacterium] coprostanoligenes group;uncultured bacterium	1
+FJ951867.1.1498 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae UCG-013;uncultured bacterium	2
+JQ782427.1.1380 Bacteria;Firmicutes;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus nanensis	2
+FM873085.1.1471 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiraceae NK4A136 group;uncultured bacterium	3
+JQ782411.1.1419 Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus rhamnosus	2
+JQ805628.1.1475 Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus ruminis	3
+FJ825511.1.1375 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae UCG-005;uncultured bacterium	6
+FJ825537.1.1380 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;uncultured bacterium	1
+JX006733.1.1426 Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Bilophila;bacterium NLAE-zl-H528	1
+AY207056.1.1478 Bacteria;Synergistetes;Synergistia;Synergistales;Synergistaceae;Pyramidobacter;Pyramidobacter piscolens	3
+AY949858.1.1511 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Caproiciproducens;Clostridium sp. strain S6	4
+FM873830.1.1465 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Subdoligranulum;uncultured bacterium	1
+FM873540.1.1464 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;uncultured bacterium	1
+AM276120.1.1591 Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Eggerthellaceae;uncultured;uncultured bacterium	3
+JQ904542.1.1488 Bacteria;Firmicutes;Clostridia;Clostridiales;Family XIV;Proteinivorax;Proteinivorax tanatarense	3
+JX570600.1.1369 Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;Rickettsiaceae;uncultured;endosymbiont of Ridgeia piscesae	3
+AB506174.1.1514 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae UCG-008;uncultured bacterium	1
+FTLN01000073.7570.8874 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 5;Clostridium sp. Marseille-P2415	2
+FJ848434.1.1498 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae UCG-002;uncultured bacterium	1
+JX006430.1.1348 Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;bacterium NLAE-zl-H207	4
+FJ879628.1.1604 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;[Eubacterium] xylanophilum group;uncultured bacterium	1
+JX006581.1.1398 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Hungatella;bacterium NLAE-zl-H368	3
+JX006565.1.1418 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 5;bacterium NLAE-zl-H351	4
+AY980930.1.1341 Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;Christensenellaceae R-7 group;uncultured bacterium	1
+GY222292.1.1479 Bacteria;Actinobacteria;Actinobacteria;Micromonosporales;Micromonosporaceae;Salinispora;unidentified	4
+JX006270.1.1412 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium;bacterium NLAE-zl-H19	6
+JX006397.1.1422 Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;bacterium NLAE-zl-H169	3
+JX006693.1.1413 Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;bacterium NLAE-zl-H482	1
+JX101685.1.1488 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Intestinimonas;Intestinimonas butyriciproducens AP4	7
+DQ326504.1.1349 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Marvinbryantia;uncultured bacterium	1
+JQ187698.1.1335 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae UCG-005;uncultured bacterium	1
+FJ825534.1.1383 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae UCG-005;uncultured bacterium	1
+AY643082.1.1451 Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Rikenellaceae;Alistipes;Alistipes finegoldii	1
+AJ812141.1.1300 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae UCG-003;uncultured bacterium	1
+AF371769.1.1454 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;[Eubacterium] coprostanoligenes group;uncultured bacterium	1
+AY916320.1.1353 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 9;uncultured bacterium	1
+AY538696.1.1466 Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Rikenellaceae;Alistipes;Bacteroides sp. Smarlab 3302398	2
+JX006557.1.1407 Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;bacterium NLAE-zl-H342	2
+JX629261.1.1428 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerostipes;Anaerostipes sp. 494a	4
+FM874055.1.1464 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;uncultured bacterium	1
+FJ832845.1.1325 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;uncultured bacterium	1
+JQ963332.1.1344 Bacteria;Actinobacteria;Actinobacteria;Corynebacteriales;Corynebacteriaceae;Corynebacterium 1;Corynebacterium jeikeium	2
+JX006510.1.1418 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium;bacterium NLAE-zl-H294	13
+AY960567.1.1475 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiraceae UCG-008;Ruminococcus sp. CE2	3
+CP001104.697435.698953 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;[Eubacterium] eligens group;[Eubacterium] eligens ATCC 27750	4
+JQ795745.1.1462 Bacteria;Proteobacteria;Gammaproteobacteria;Aeromonadales;Aeromonadaceae;Aeromonas;Aeromonas veronii	1
+FM874060.1.1469 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 5;uncultured bacterium	5
+FJ879953.1.1494 Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;Christensenellaceae R-7 group;uncultured bacterium	2
+FM873805.1.1485 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Roseburia;uncultured bacterium	2
+FJ833457.1.1360 Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;Christensenellaceae R-7 group;uncultured bacterium	1
+AY548783.1.1256 Bacteria;Firmicutes;Clostridia;Clostridiales;Family XIII;Anaerovorax;Clostridium sp. PPf35E6	1
+JX006611.1.1403 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;bacterium NLAE-zl-H399	2
+FJ833144.1.1348 Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;Christensenellaceae R-7 group;uncultured bacterium	1
+FM873842.1.1486 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;[Ruminococcus] gauvreauii group;uncultured bacterium	3
+AY949859.1.1516 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Clostridium sp. strain Z6	1
+AY581272.1.1413 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Oscillibacter;Lactobacillales bacterium HY-36-1	2
+FJ833977.1.1385 Bacteria;Firmicutes;Clostridia;Clostridiales;Peptococcaceae;Peptococcus;uncultured bacterium	1
+JX048409.1.1407 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;GCA-900066755;bacterium NLAE-zl-G417	6
+FM873838.1.1511 Bacteria;Firmicutes;Negativicutes;Selenomonadales;Acidaminococcaceae;Phascolarctobacterium;uncultured bacterium	1
+FM873403.1.1466 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Subdoligranulum;uncultured bacterium	1
+CP001104.2029863.2031381 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;[Eubacterium] eligens group;[Eubacterium] eligens ATCC 27750	1
+AY916262.1.1344 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiraceae FCS020 group;uncultured bacterium	2
+AY305312.1.1453 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Coprococcus 3;butyrate-producing bacterium SL7/1	4
+LARL01000139.98.1602 Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Marinifilaceae;Butyricimonas;Odoribacter sp. N54.MGS-14	1
+AY974070.1.1396 Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Tannerellaceae;Parabacteroides;Parabacteroides goldsteinii	1
+JX101688.1.1513 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Candidatus Soleaferrea;Candidatus Soleaferrea massiliensis AP7	2
+JX629259.1.1464 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Roseburia;Roseburia sp. 499	4
+AY305318.1.1452 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;[Eubacterium] hallii group;butyrate-producing bacterium SM6/1	3
+AY305310.1.1456 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Roseburia;Roseburia faecis M72/1	6
+AY916273.1.1355 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiraceae FCS020 group;uncultured bacterium	1
+FM873395.1.1458 Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Coriobacteriaceae;Collinsella;uncultured bacterium	2
+JQ771198.1.1415 Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Xanthobacteraceae;Bradyrhizobium;Bradyrhizobium sp. UFLA04-289	2
+EF402648.1.1522 Bacteria;Firmicutes;Negativicutes;Selenomonadales;Acidaminococcaceae;Phascolarctobacterium;uncultured bacterium	1
+JX101687.1.1487 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium;Candidatus Dorea massiliensis AP6	3
+FM873943.1.1488 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae UCG-013;uncultured bacterium	2
+JX048159.1.1423 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Oscillibacter;bacterium NLAE-zl-G123	1
+FM874013.1.1483 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Fusicatenibacter;uncultured bacterium	3
+FJ833603.1.1340 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;uncultured bacterium	1
+JQ771468.1.1473 Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae 1;Oceanirhabdus;Oceanirhabdus sediminicola	5
+JX048101.1.1406 Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae 1;Clostridium sensu stricto 2;bacterium NLAE-zl-G77	1
+AY305307.1.1433 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Faecalibacterium;butyrate-producing bacterium M21/2	11
+JQ770192.1.1322 Bacteria;Firmicutes;Bacilli;Lactobacillales;Carnobacteriaceae;Jeotgalibaca;Trichococcus sp. SVI8	1
+FJ904262.1.1477 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Candidatus Soleaferrea;uncultured bacterium	1
+HG970987.1.1486 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Flavonifractor;uncultured bacterium	1
+HK555880.1.1505 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 5;unidentified	1
+JX006534.1.1415 Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;bacterium NLAE-zl-H319	1
+JQ773444.1.1444 Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Methyloligellaceae;Methyloligella;Methyloligella solikamskensis	1
+AJ408998.1.1460 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 9;uncultured bacterium	2
+JQ940357.1.1450 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;[Eubacterium] coprostanoligenes group;uncultured bacterium	3
+AGZL01000037.1454.2938 Bacteria;Bacteroidetes;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Myroides;Myroides odoratimimus CCUG 12700	1
+GQ016036.1.1351 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;uncultured bacterium	1
+FN667249.1.1454 Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;Christensenellaceae R-7 group;uncultured compost bacterium	1
+KR232914.1.1380 Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Barnesiellaceae;Barnesiella;Barnesiella sp. S496	1
+FAVI01000008.1703276.1704567 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;Blautia massiliensis	4
+DQ793389.1.1378 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiraceae NK4A136 group;uncultured bacterium	1
+DQ801309.1.1387 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Marvinbryantia;uncultured bacterium	1
+JQ988071.1.1495 Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Dysgonomonadaceae;Proteiniphilum;Petrimonas sp. B-17	2
+JQ795192.1.1319 Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium;Rhizobium leguminosarum bv. trifolii	2
+X84482.1.1436 Bacteria;Armatimonadetes;Fimbriimonadia;Fimbriimonadales;Fimbriimonadaceae;uncultured bacterium SBR1039	2
+KR232856.1.1378 Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Rikenellaceae;Alistipes;Alistipes sp. S216	3
+AY974072.1.1433 Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Rikenellaceae;Alistipes;Alistipes shahii	1
+JX006532.1.1418 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;bacterium NLAE-zl-H317	3
+AY916157.1.1405 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;uncultured;uncultured bacterium	1
+AY305315.1.1454 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiraceae UCG-004;butyrate-producing bacterium GM2/1	5
+JQ765854.1.1500 Bacteria;Actinobacteria;Actinobacteria;Corynebacteriales;Corynebacteriaceae;Corynebacterium 1;Corynebacterium sp. 1938BRRJ	1
+AY305308.1.1455 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Roseburia;butyrate-producing bacterium M50/1	4
+AY323228.1.1374 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Oribacterium;Oribacterium sinus	2
+AF132235.1.1426 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;uncultured;uncultured bacterium adhufec101	1
+FM873409.1.1463 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Faecalibacterium;uncultured bacterium	1
+AY916240.1.1344 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;uncultured;uncultured bacterium	1
+AY445600.1.1503 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Ruminococcus albus	3
+FJ971732.1.1447 Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;Christensenellaceae R-7 group;uncultured bacterium	1
+JQ808134.1.1442 Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Geobacillus;Bacillus sp. SP29	1
+AF371674.1.1466 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;[Eubacterium] xylanophilum group;uncultured bacterium	1
+GY194060.4884.6412 Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;unidentified	17
+JQ940474.1.1455 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;uncultured;uncultured bacterium	1
+JX048236.1.1405 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;[Eubacterium] fissicatena group;bacterium NLAE-zl-G276	2
+JQ766307.1.1245 Bacteria;Tenericutes;Mollicutes;Mollicutes Incertae Sedis;Unknown Family;Candidatus Phytoplasma;Cabbage stunt phytoplasma	1
+AY305322.1.1451 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;butyrate-producing bacterium SR1/5	3
+JQ806739.1.1427 Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Kangiellaceae;Pleionea;Kangiella sp. MMH2-2	1
+JX048148.1.1392 Bacteria;Firmicutes;Clostridia;Clostridiales;Family XIII;S5-A14a;bacterium NLAE-zl-G133	1
+JQ918080.1.1476 Bacteria;Firmicutes;Clostridia;Clostridiales;Family XI;Sedimentibacter;Sedimentibacter sp. JLN1	1
+JX006319.1.1411 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium;bacterium NLAE-zl-H75	2
+AY305311.1.1455 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Agathobacter;butyrate-producing bacterium M104/1	3
+FJ951866.1.1493 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;uncultured bacterium	1
+FJ879029.1.1489 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 2;uncultured bacterium	4
+JX104042.1.1376 Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;Porphyromonadaceae bacterium S4-BM13m-a	2
+EU118361.1.1499 Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Geomicrobium;haloalkaliphilic bacterium AH-6	1
+FJ744836.1.1314 Bacteria;Proteobacteria;Alphaproteobacteria;Puniceispirillales;SAR116 clade;uncultured alpha proteobacterium	2
+FLKC01000022.431649.433070 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;Ruminococcus sp. Marseille-P328	6
+JX006729.1.1400 Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Erysipelatoclostridium;bacterium NLAE-zl-H524	2
+JX006310.1.1423 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Eisenbergiella;bacterium NLAE-zl-H64	6
+JX104038.1.1411 Bacteria;Firmicutes;Negativicutes;Selenomonadales;Veillonellaceae;Veillonella;Veillonella sp. S4-AA2-6	1
+GY244052.1.1384 Bacteria;Actinobacteria;Actinobacteria;Bifidobacteriales;Bifidobacteriaceae;Bifidobacterium;unidentified	5
+JX069948.1.1215 Bacteria;Bacteroidetes;Bacteroidia;Flavobacteriales;Weeksellaceae;Riemerella;Riemerella anatipestifer	1
+JQ906087.1.1436 Bacteria;Bacteroidetes;Rhodothermia;Rhodothermales;Rhodothermaceae;Rubrivirga;Rhodothermaceae bacterium SAORIC-26	1
+JQ778986.1.1484 Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotella 7;Prevotella sp. CD3:34	7
+AM275436.1.1513 Bacteria;Tenericutes;Mollicutes;Mollicutes RF39;uncultured bacterium	1
+AF371603.1.1462 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Agathobacter;uncultured bacterium	1
+AY804148.1.1487 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Roseburia;Roseburia hominis	1
+AF052412.1.1501 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Roseburia;uncultured bacterium A11	1
+HG328250.1.1439 Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus plantarum	1
+JQ940641.1.1454 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium;uncultured bacterium	1
+JQ771205.1.1474 Bacteria;Firmicutes;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus sp. UFLA04-305	1
+JQ804842.1.1377 Bacteria;Proteobacteria;Gammaproteobacteria;Salinisphaerales;Solimonadaceae;Hydrocarboniphaga;Hydrocarboniphaga daqingensis	1
+AB506147.1.1514 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae UCG-008;uncultured bacterium	1
+GQ158591.1.1446 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 9;uncultured bacterium	1
+AY684405.1.1439 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;uncultured;uncultured bacterium	1
+DQ326627.1.1355 Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;Christensenellaceae R-7 group;uncultured bacterium	1
+AY699279.1.1523 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospira;Lachnospira pectinoschiza	1
+GQ036286.1.1354 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;CAG-56;uncultured bacterium	1
+AY188347.1.1533 Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;Streptococcus cristatus	1
+FJ878981.1.1476 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Negativibacillus;uncultured bacterium	1
+FJ833044.1.1334 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;uncultured;uncultured bacterium	1
+JQ860087.1.1364 Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Microbacteriaceae;Microbacterium;Microbacterium oleivorans	2
+JQ975950.1.1359 Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Brevibacteriaceae;Brevibacterium;Brevibacterium epidermidis	1
+AY949857.1.1510 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Saccharofermentans;Saccharofermentans acetigenes	1
+HQ783204.1.1430 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 5;uncultured organism	1
+AY757357.1.1389 Bacteria;Firmicutes;Bacilli;Bacillales;Family XI;Gemella;Gemella sanguinis	1
+HK695102.1.1488 Bacteria;Lentisphaerae;Lentisphaeria;Victivallales;Victivallaceae;Victivallis;unidentified	1
+DQ806276.1.1417 Bacteria;Firmicutes;Negativicutes;Selenomonadales;Acidaminococcaceae;Phascolarctobacterium;uncultured bacterium	1
+FJ880730.1.1475 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae UCG-005;uncultured bacterium	1
+AY960572.1.1483 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Coprococcus 3;Clostridium sp. ID6	2
+DQ793248.1.1392 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;[Eubacterium] coprostanoligenes group;uncultured bacterium	1
+FM995176.1.1481 Bacteria;Firmicutes;Clostridia;Clostridiales;Peptostreptococcaceae;Romboutsia;uncultured Clostridium sp.	1
+FJ878986.1.1604 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;[Eubacterium] xylanophilum group;uncultured bacterium	1
+EU024833.16992.18789 Eukaryota;Archaeplastida;Chloroplastida;Charophyta;Phragmoplastophyta;Streptophyta;Embryophyta;Tracheophyta;Spermatophyta;Magnoliophyta;Rosales;Fragaria;Fragaria vesca subsp. americana	1
+HK555641.1.1405 Bacteria;Actinobacteria;Actinobacteria;Bifidobacteriales;Bifidobacteriaceae;Bifidobacterium;unidentified	1
+AC201869.46386.47908 Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Candidatus Regiella;Candidatus Regiella insecticola	1
+AY305320.1.1455 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerostipes;Anaerostipes hadrus	2
+KR232923.1.1372 Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Marinifilaceae;Odoribacter;Odoribacter sp. S90	3
+U81762.1.1448 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae NK4A214 group;uncultured bacterium	2
+JX006253.1.1410 Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;bacterium NLAE-zl-H2	5
+JX006725.1.1413 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium;bacterium NLAE-zl-H519	4
+JX101683.1.1499 Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Holdemania;Holdemania massiliensis AP2	1
+AB627676.1.1520 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;uncultured;uncultured bacterium	1
+FJ825469.1.1376 Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae 1;Clostridium sensu stricto 1;uncultured bacterium	1
+JX103991.1.1374 Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Eggerthellaceae;Eggerthella;Eggerthella sp. MVA8	5
+HQ773742.1.1428 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Faecalibacterium;uncultured organism	1
+L34619.1.1479 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Dorea;Dorea formicigenerans	1
+JX048067.1.1371 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiraceae NK4A136 group;bacterium NLAE-zl-G1	1
+FM873849.1.1467 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiraceae ND3007 group;uncultured bacterium	2
+GU574205.1.1452 Bacteria;Firmicutes;Negativicutes;Selenomonadales;Veillonellaceae;Veillonella;Veillonella parvula	1
+JQ940680.1.1451 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Butyricicoccus;uncultured bacterium	1
+FJ879271.1.1491 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Oscillibacter;uncultured bacterium	1
+AY178841.1.1536 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Pseudobutyrivibrio;Pseudobutyrivibrio ruminis	3
+FJ880414.1.1492 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;uncultured;uncultured bacterium	1
+HM256392.1.1353 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiraceae FCS020 group;uncultured bacterium	1
+DQ238614.1.1514 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;uncultured;uncultured bacterium	1
+AF132255.1.1473 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae UCG-002;uncultured bacterium adhufec269	4
+FM874025.1.1500 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;[Eubacterium] ventriosum group;uncultured bacterium	1
+GQ897033.1.1481 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 5;uncultured bacterium	3
+HK557193.2.1375 Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Barnesiellaceae;Coprobacter;unidentified	1
+FJ879055.1.1485 Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Tannerellaceae;Parabacteroides;uncultured bacterium	1
+AY310748.1.1429 Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Eggerthellaceae;Adlercreutzia;human intestinal bacterium SNU-Julong732	1
+JQ771585.1.1446 Bacteria;Actinobacteria;Actinobacteria;Streptomycetales;Streptomycetaceae;Streptomyces;Streptomyces sp. O6-2	3
+JQ768054.1.1289 Bacteria;Firmicutes;Bacilli;Lactobacillales;Enterococcaceae;Enterococcus;Enterococcus faecium	3
+JQ782387.1.1502 Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Burkholderiaceae;Acidovorax;Acidovorax wautersii	1
+FJ848414.1.1483 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae UCG-005;uncultured bacterium	1
+U81761.1.1440 Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;uncultured;uncultured bacterium	1
+JQ951932.101.1639 Bacteria;Bacteroidetes;Ignavibacteria;Ignavibacteriales;Melioribacteraceae;Melioribacter;Melioribacter roseus	1
+FJ879045.1.1464 Bacteria;Firmicutes;Clostridia;Clostridiales;Peptostreptococcaceae;Romboutsia;uncultured bacterium	1
+DQ801933.1.1390 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;uncultured;uncultured bacterium	1
+AY238334.1.1460 Bacteria;Firmicutes;Clostridia;Clostridiales;Peptostreptococcaceae;Intestinibacter;Clostridium sp. MDA2315	2
+FM874053.1.1488 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Roseburia;uncultured bacterium	1
+GQ030288.1.1362 Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotella 9;uncultured bacterium	1
+HQ780810.1.1449 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Agathobacter;uncultured organism	1
+FJ957447.1.1513 Bacteria;Firmicutes;Bacilli;Lactobacillales;Carnobacteriaceae;Granulicatella;uncultured Granulicatella sp.	1
+JQ188116.1.1348 Bacteria;Tenericutes;Mollicutes;Mollicutes RF39;uncultured bacterium	1
+AF371688.1.1398 Bacteria;Firmicutes;Clostridia;Clostridiales;Family XIII;Family XIII UCG-001;uncultured bacterium	1
+JX424766.1.1279 Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Coriobacteriaceae;Collinsella;Collinsella massiliensis	1
+AF371524.1.1337 Bacteria;Tenericutes;Mollicutes;Mollicutes RF39;uncultured bacterium	1
+FJ879958.1.1537 Bacteria;Firmicutes;Clostridia;Clostridiales;Peptococcaceae;uncultured;uncultured bacterium	1
+JX048144.1.1420 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Tyzzerella;bacterium NLAE-zl-G96	1
+FJ879456.1.1487 Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Tannerellaceae;Parabacteroides;uncultured bacterium	1
+FM995695.1.1460 Bacteria;Firmicutes;Clostridia;Clostridiales;Family XIII;Mogibacterium;uncultured bacterium	1
+HK694771.1.1454 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Roseburia;unidentified	1
+JX048496.1.1414 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Oscillibacter;bacterium NLAE-zl-G510	1
+FM873353.1.1485 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospira;uncultured bacterium	2
+AY916265.1.1352 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae UCG-005;uncultured bacterium	1
+FM874884.1.1503 Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;uncultured bacterium	1
+HQ452860.1.1480 Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Merdibacter;Clostridiales bacterium 10-3b	1
+FM873773.1.1500 Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;uncultured bacterium	1
+LN881593.1.1490 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Anaerotruncus;Anaerotruncus rubiinfantis	1
+DQ794174.1.1388 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 5;uncultured bacterium	1
+FJ799149.1.1491 Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Tannerellaceae;Macellibacteroides;bacterium enrichment culture clone LA78	1
+FJ799134.1.1493 Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Rikenellaceae;DMER64;bacterium enrichment culture clone BA114	1
+AY319395.1.1449 Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides thetaiotaomicron	3
+DQ808563.1.1384 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;uncultured;uncultured bacterium	1
+EF403952.1.1494 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium;uncultured bacterium	1
+AY442826.1.1528 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Agathobacter;bacterium YE62	1
+AF052418.1.1500 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Fusicatenibacter;uncultured bacterium A21	1
+FN563297.1.1458 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Eisenbergiella;uncultured bacterium	1
+JQ940726.1.1452 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;uncultured;uncultured bacterium	1
+DQ793810.1.1391 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Negativibacillus;uncultured bacterium	1
+JQ967449.1.1327 Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae 1;Clostridium sensu stricto 1;Clostridium beijerinckii	2
+JQ796692.1.1339 Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Eggerthellaceae;Slackia;Slackia isoflavoniconvertens	1
+AJ811985.1.1352 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 9;uncultured bacterium	1
+JX048174.1.1420 Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;bacterium NLAE-zl-G125	2
+JX048483.1.1399 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Oscillibacter;bacterium NLAE-zl-G497	2
+FM873987.1.1481 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Tyzzerella 3;uncultured bacterium	1
+EU266549.1.1452 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 2;Ruminococcus bromii	1
+HQ760973.1.1442 Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;uncultured organism	1
+JQ778984.1.1484 Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotella 7;Prevotella sp. CD3:32	2
+HK557282.1.1467 Bacteria;Lentisphaerae;Lentisphaeria;Victivallales;Victivallaceae;Victivallis;unidentified	1
+AY598818.1.1543 Bacteria;Firmicutes;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus phyllosphaerae	1
+DQ806719.1.1402 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae NK4A214 group;uncultured bacterium	1
+AB506408.1.1519 Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;Christensenellaceae R-7 group;uncultured bacterium	1
+AY239462.1.1500 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;[Ruminococcus] gauvreauii group;Clostridium sp. cTPY-17	2
+AB038359.1.1315 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Coprococcus 1;Coprococcus catus	1
+DQ793366.1.1396 Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;Christensenellaceae R-7 group;uncultured bacterium	1
+AB491821.1.1523 Bacteria;Firmicutes;Clostridia;Clostridiales;JTB215;uncultured Firmicutes bacterium	1
+GQ159260.1.1476 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiraceae UCG-001;uncultured bacterium	2
+DQ796818.1.1392 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiraceae UCG-001;uncultured bacterium	1
+FM874044.1.1484 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospira;uncultured bacterium	2
+FJ825544.1.1389 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;[Eubacterium] coprostanoligenes group;uncultured bacterium	1
+FM873803.1.1463 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Faecalibacterium;uncultured bacterium	1
+DQ809999.1.1388 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 5;uncultured bacterium	1
+DD159266.1.1509 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Tyzzerella 3;unidentified	1
+AB606370.1.1495 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;uncultured;uncultured bacterium	1
+BA000045.1571231.1572715 Bacteria;Cyanobacteria;Oxyphotobacteria;Gloeobacterales;Gloeobacteraceae;Gloeobacter PCC-7421;Gloeobacter violaceus PCC 7421	1
+FJ833255.1.1382 Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Coriobacteriales Incertae Sedis;Raoultibacter;uncultured bacterium	1
+FJ880141.1.1490 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;uncultured bacterium	1
+JX006677.1.1400 Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;bacterium NLAE-zl-H466	1
+AB002063.1.1767 Eukaryota;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina;Eurotiomycetes;Eurotiales;Aspergillaceae;Aspergillus;Aspergillus wentii	1
+FJ825545.1.1394 Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;Christensenellaceae R-7 group;uncultured bacterium	1
+AY350746.1.1440 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Coprococcus 2;butyrate-producing bacterium ART55/1	3
+JQ202553.1.1347 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Angelakisella;uncultured bacterium	1
+JQ940332.1.1436 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae UCG-005;uncultured bacterium	1
+AF132283.1.1280 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae UCG-005;uncultured bacterium adhufec108	1
+EU111721.1.1423 Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas migulae	1
+JX485787.1.1405 Bacteria;Firmicutes;Clostridia;Clostridiales;Peptostreptococcaceae;Asaccharospora;Asaccharospora irregularis	1
+JQ940294.1.1452 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium;uncultured bacterium	1
+HK556336.2.1512 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;[Ruminococcus] torques group;unidentified	1
+AY305305.1.1453 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Coprococcus 3;butyrate-producing bacterium A2-232	1
+GQ898595.1.1468 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Agathobacter;uncultured bacterium	1
+AY321958.1.1429 Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Eggerthellaceae;Eggerthella;Eggerthella sinensis	1
+FJ894903.1.1377 Bacteria;Firmicutes;Bacilli;Bacillales;Family XI;Gemella;uncultured bacterium	1
+FJ879403.1.1494 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 5;uncultured bacterium	1
+AY975810.1.1337 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Negativibacillus;uncultured bacterium	1
+AM277516.1.1523 Bacteria;Tenericutes;Mollicutes;Mollicutes RF39;uncultured bacterium	1
+JX048268.1.1377 Bacteria;Firmicutes;Clostridia;Clostridiales;Eubacteriaceae;Eubacterium;bacterium NLAE-zl-G246	2
+FJ951869.1.1490 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Roseburia;uncultured bacterium	1
+JX006286.1.1415 Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;bacterium NLAE-zl-H37	2
+JX006621.1.1404 Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;bacterium NLAE-zl-H409	2
+JX048499.1.1374 Bacteria;Firmicutes;Clostridia;Clostridiales;Family XIII;S5-A14a;bacterium NLAE-zl-G513	1
+AF132270.1.1279 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Marvinbryantia;uncultured bacterium adhufec40	1
+CP000139.346743.348252 Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides vulgatus ATCC 8482	1
+DQ796235.1.1394 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 9;uncultured bacterium	1
+AY804150.1.1497 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Roseburia;Roseburia faecis	2
+FJ881018.1.1487 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;uncultured bacterium	1
+AY653234.1.1325 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Murimonas;Ruminococcus sp. MLG080-3	1
+FJ833196.1.1388 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;uncultured bacterium	2
+JQ799063.1.1512 Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Fictibacillus;Fictibacillus nanhaiensis	2
+AY960566.1.1458 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;Clostridium sp. IE5	1
+JX006408.1.1413 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 5;bacterium NLAE-zl-H180	1
+KU316940.1.1403 Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Erysipelotrichaceae UCG-003;Clostridium sp. ACB-29	1
+KR232895.1.1364 Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Rikenellaceae;Alistipes;Alistipes sp. S440	1
+HQ814271.1.1439 Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;uncultured organism	1
+GQ112401.1.1366 Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Neisseriaceae;uncultured;uncultured bacterium	1
+FJ880875.1.1473 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;GCA-900066225;uncultured bacterium	1
+JQ248111.1.1514 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;[Ruminococcus] torques group;uncultured bacterium	1
+JQ191051.1.1355 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiraceae UCG-001;uncultured bacterium	1
+AY574991.1.1453 Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;Catabacter;Catabacter hongkongensis	1
+JX048537.1.1382 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Tyzzerella;bacterium NLAE-zl-G68	1
+DQ808894.1.1284 Bacteria;Firmicutes;Clostridia;Clostridiales;Family XIII;[Eubacterium] nodatum group;uncultured bacterium	1
+JX104045.1.1361 Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Eggerthellaceae;Slackia;Slackia sp. S4-C6	1
+JQ904721.1.1432 Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus thuringiensis	1
+HK555411.2.1508 Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Rikenellaceae;Alistipes;unidentified	1
+CP000139.4743140.4744649 Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides vulgatus ATCC 8482	1
+AF227834.1.1455 Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;bacterium str. 31285	1
+AB702715.1.1396 Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;uncultured Bacteroidales bacterium	1
+GQ129993.1.1489 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;CAG-56;uncultured bacterium	1
+GY187501.2.1421 Bacteria;Epsilonbacteraeota;Campylobacteria;Campylobacterales;Helicobacteraceae;Helicobacter;unidentified	3
+HE613280.1.1372 Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;uncultured bacterium	1
+AF371862.1.1470 Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Burkholderiaceae;Oxalobacter;uncultured bacterium	1
+JQ918081.1.1539 Bacteria;Firmicutes;Clostridia;Clostridiales;Peptococcaceae;Dehalobacter;Dehalobacter sp. 13DCB1	1
+FJ879453.1.1475 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae UCG-005;uncultured bacterium	1
+HM832687.1.1364 Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;uncultured bacterium	1
+AB506131.1.1522 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;uncultured bacterium	3
+FN563390.1.1444 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiraceae NC2004 group;uncultured bacterium	1
+GQ079155.1.1335 Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiales vadinBB60 group;uncultured bacterium	1
+AB107965.1.1769 Eukaryota;SAR;Stramenopiles;Incertae Sedis;Blastocystis;Blastocystis sp. CJ99-363	1
+AB559628.1.1523 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Butyricicoccus;uncultured bacterium	2
+FJ825484.1.1348 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 1;uncultured bacterium	1
+GQ021950.1.1362 Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotella 9;uncultured bacterium	1
+FJ951868.1.1481 Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;Christensenellaceae R-7 group;uncultured bacterium	1
+JX914492.1.1360 Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Anoxybacillus;Anoxybacillus flavithermus subsp. flavithermus	1
+GQ451192.1.1488 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae UCG-014;uncultured bacterium	1
+HQ810609.1.1425 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Faecalibacterium;uncultured organism	1
+AY534872.1.1442 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerosporobacter;Anaerosporobacter mobilis	1
+AY724678.1.1465 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Flavonifractor;Flavonifractor plautii	2
+FM873901.1.1464 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;uncultured bacterium	1
+HK556937.1.1370 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;unidentified	1
+DQ325557.1.1352 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;uncultured bacterium	1
+AB506222.1.1514 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;uncultured;uncultured bacterium	1
+FJ769493.1.1459 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiraceae NK4A136 group;uncultured bacterium	1
+JQ940555.1.1453 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiraceae UCG-004;uncultured bacterium	1
+DQ800203.1.1398 Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;uncultured bacterium	1
+JQ940338.1.1453 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;[Eubacterium] eligens group;uncultured bacterium	1
+FJ879233.1.1491 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 9;uncultured bacterium	2
+DQ797094.1.1404 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae UCG-009;uncultured bacterium	1
+DQ796842.1.1380 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;uncultured;uncultured bacterium	1
+AF371717.1.1348 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Subdoligranulum;uncultured bacterium	1
+DQ800387.1.1370 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;uncultured bacterium	2
+DQ808816.1.1370 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Faecalibacterium;uncultured bacterium	1
+FM174355.1.1443 Bacteria;Bacteroidetes;Bacteroidia;Flavobacteriales;NS9 marine group;uncultured bacterium	1
+HQ759511.1.1416 Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;uncultured;uncultured organism	1
+KP889099.1.1383 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Butyricicoccus;Eubacterium sp. SR79	2
+JQ782916.1.1380 Bacteria;Actinobacteria;Actinobacteria;Corynebacteriales;Nocardiaceae;Nocardia;Nocardia sp. 8-155	2
+JQ782910.1.1385 Bacteria;Actinobacteria;Actinobacteria;Streptosporangiales;Streptosporangiaceae;Nonomuraea;Nonomuraea sp. 7-193	1
+AY305306.1.1465 Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Faecalitalea;butyrate-producing bacterium T2-87	1
+AC207586.19448.20862 Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Chordata;Vertebrata;Gnathostomata;Euteleostomi;Tetrapoda;Mammalia;Homo sapiens (human)	1
+AM405487.1.1459 Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;uncultured;uncultured bacterium	1
+FJ833377.1.1347 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Marvinbryantia;uncultured bacterium	1
+AY916376.1.1353 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;uncultured;uncultured bacterium	1
+JX006699.1.1384 Bacteria;Firmicutes;Clostridia;Clostridiales;Family XIII;[Eubacterium] nodatum group;bacterium NLAE-zl-H490	1
+AB189695.1.1356 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Tyzzerella 3;uncultured bacterium	1
+AF371813.1.1414 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae UCG-014;uncultured bacterium	1
+GQ106367.1.1357 Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;Christensenellaceae R-7 group;uncultured bacterium	1
+FJ976030.1.1331 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;uncultured Lachnospiraceae bacterium	1
+HK557182.10.1524 Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Burkholderiaceae;Sutterella;unidentified	1
+AB606263.1.1541 Bacteria;Firmicutes;Clostridia;Clostridiales;Peptococcaceae;uncultured;uncultured bacterium	1
+AY233860.1.1549 Bacteria;Firmicutes;Clostridia;Clostridiales;Peptococcaceae;Desulfosporosinus;Desulfosporosinus sp. Y5	2
+D85107.1.1514 Bacteria;Actinobacteria;Actinobacteria;Streptomycetales;Streptomycetaceae;Streptomyces;Streptomyces lavendulae	1
+FJ982973.1.1482 Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Atopobiaceae;Olsenella;uncultured bacterium	1
+JX266306.1.1533 Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Micrococcaceae;Arthrobacter;Arthrobacter sp. A1091	2
+DQ793270.1.1384 Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Erysipelotrichaceae UCG-003;uncultured bacterium	1
+CYXW01000004.203369.204864 Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Turicibacter;Turicibacter sanguinis	1
+JX847660.1.1384 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 5;Clostridium sp. taihuN5	1
+JNJP01000178.102.1632 Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Bilophila;Bilophila wadsworthia ATCC 49260	1
+KC879286.1.1448 Bacteria;Firmicutes;Bacilli;Bacillales;Planococcaceae;Lysinibacillus;Lysinibacillus fusiformis	1
+AB233607.1.1736 Eukaryota;Archaeplastida;Chloroplastida;Charophyta;Phragmoplastophyta;Streptophyta;Embryophyta;Tracheophyta;Spermatophyta;Magnoliophyta;Malpighiales;Flueggea;Flueggea virosa	1
+U81676.1.1448 Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Rikenellaceae;DMER64;uncultured bacterium	1
+EU136685.1.2023 Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Tannerellaceae;Parabacteroides;Parabacteroides merdae	1
+HM283141.1.1350 Bacteria;Firmicutes;Clostridia;Clostridiales;Defluviitaleaceae;Defluviitaleaceae UCG-011;uncultured bacterium	1
+HK693832.7.1519 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerostipes;unidentified	1
+FM873801.1.1455 Bacteria;Firmicutes;Clostridia;Clostridiales;Peptostreptococcaceae;Terrisporobacter;uncultured bacterium	1
+FJ880658.1.1492 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae UCG-009;uncultured bacterium	1
+JF161443.1.1354 Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;uncultured;uncultured bacterium	1
+FM873975.1.1486 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerostipes;uncultured bacterium	1
+KH326986.2952968.2954454 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;[Eubacterium] hallii group;unidentified	1
+FM872529.1.1486 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;[Ruminococcus] gauvreauii group;uncultured bacterium	1
+JQ975899.1.1369 Bacteria;Actinobacteria;Actinobacteria;Corynebacteriales;Corynebacteriaceae;Corynebacterium 1;Corynebacterium sp. XJ149Q-12-2NYS1	1
+AJ408971.1.1486 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;uncultured;uncultured bacterium	1
+JX048181.1.1406 Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;bacterium NLAE-zl-G126	1
+JQ941061.1.1452 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;uncultured bacterium	1
+AY442822.1.1509 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;Ruminococcus sp. YE58	1
+AY428574.1.1367 Bacteria;Firmicutes;Negativicutes;Selenomonadales;Veillonellaceae;Pectinatus;Pectinatus portalensis	1
+AY916304.1.1341 Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;Christensenellaceae R-7 group;uncultured bacterium	1
+GY471395.1.1486 Bacteria;Halanaerobiaeota;Halanaerobiia;Halanaerobiales;Halanaerobiaceae;Halanaerobium;unidentified	1
+LNKJ01000005.174099.175616 Bacteria;Actinobacteria;Actinobacteria;Bifidobacteriales;Bifidobacteriaceae;Bifidobacterium;Bifidobacterium adolescentis	1
+JQ782932.1.1385 Bacteria;Actinobacteria;Actinobacteria;Pseudonocardiales;Pseudonocardiaceae;Saccharomonospora;Saccharomonospora sp. 8-48	1
+DQ808764.1.1370 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Subdoligranulum;uncultured bacterium	1
+X15590.1.1804 Eukaryota;Archaeplastida;Chloroplastida;Charophyta;Phragmoplastophyta;Streptophyta;Embryophyta;Tracheophyta;Spermatophyta;Magnoliophyta;Rosales;Fragaria;Fragaria x ananassa (strawberry)	1
+EU136695.1.1991 Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides eggerthii	1
+DQ793974.1.1401 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;[Eubacterium] coprostanoligenes group;uncultured bacterium	1
+JQ982630.1.1292 Bacteria;Bacteroidetes;Bacteroidia;Flavobacteriales;Blattabacteriaceae;Candidatus Sulcia;Candidatus Sulcia muelleri	1
+AB062774.1.1391 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;uncultured;uncultured bacterium	1
+AB506167.1.1505 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Subdoligranulum;uncultured bacterium	1
+AY340811.1.1218 Bacteria;Firmicutes;Clostridia;Clostridiales;Peptococcaceae;Desulfotomaculum;Desulfotomaculum sp. MPNeg1	1
+HK693389.1.1504 Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Rikenellaceae;Alistipes;unidentified	1
+AB554231.1.1489 Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Rikenellaceae;Alistipes;Alistipes onderdonkii	1
+AY699286.1.1522 Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotella 1;Prevotella ruminicola	1
+FJ825471.1.1412 Bacteria;Firmicutes;Clostridia;DTU014;uncultured bacterium	1
+FJ848384.1.1503 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae UCG-002;uncultured bacterium	1
+FJ832608.1.1365 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;uncultured;uncultured bacterium	1
+AY916299.1.1346 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiraceae UCG-008;uncultured bacterium	1
+AM278916.1.1477 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 9;uncultured bacterium	2
+AY178842.1.1524 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;[Eubacterium] cellulosolvens group;[Eubacterium] cellulosolvens	1
+JQ795831.1.1457 Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Shewanellaceae;Shewanella;Shewanella oneidensis	1
+GY203941.1.1493 Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotella 7;unidentified	1
+GQ090453.1.1354 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerostipes;uncultured bacterium	1
+AB559620.1.1524 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;[Ruminococcus] torques group;uncultured bacterium	1
+JQ864432.1.1417 Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Beijerinckiaceae;Methylobacterium;Methylobacterium tarhaniae	1
+GQ897434.1.1476 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae UCG-010;uncultured bacterium	1
+EF402434.1.1475 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;uncultured bacterium	1
+DQ800354.1.1366 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;uncultured bacterium	1
+JQ768941.1.1491 Bacteria;Actinobacteria;Actinobacteria;Streptomycetales;Streptomycetaceae;Streptomyces;Streptomyces sp. NK49	1
+AY178635.1.1520 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Butyrivibrio 2;Butyrivibrio hungatei	1
+JQ806444.1.1484 Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Micrococcaceae;Pseudarthrobacter;Arthrobacter sp. SaPS17	1
+JQ805708.1.1545 Bacteria;Actinobacteria;Actinobacteria;Bifidobacteriales;Bifidobacteriaceae;Bifidobacterium;Bifidobacterium pseudocatenulatum	1
+FJ978482.1.1411 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;[Ruminococcus] torques group;uncultured bacterium	1
+GQ159247.1.1485 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiraceae NK4A136 group;uncultured bacterium	1
+FJ881221.1.1493 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiraceae UCG-001;uncultured bacterium	1
+JQ975921.1.1424 Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;Streptococcus equi subsp. equi	1
+AM277324.1.1482 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;uncultured;uncultured bacterium	1
+AF132257.1.1455 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;uncultured;uncultured bacterium adhufec295	1
+AF052409.1.1495 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;[Eubacterium] hallii group;uncultured bacterium A07	1
+DQ796210.1.1355 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerostipes;uncultured bacterium	1
+HK694040.2.1376 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Agathobacter;unidentified	1
+AY916313.1.1330 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 6;uncultured bacterium	1
+JX101692.1.1494 Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Rikenellaceae;Alistipes;Alistipes ihumii AP11	1
+AY191226.1.1533 Bacteria;Tenericutes;Mollicutes;Mycoplasmatales;Mycoplasmataceae;Mycoplasma;Mycoplasma vulturii	1
+FJ879270.1.1496 Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;uncultured bacterium	1
+FJ880164.1.1488 Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;Christensenellaceae R-7 group;uncultured bacterium	1
+JQ897947.1.1381 Bacteria;Proteobacteria;Alphaproteobacteria;Caulobacterales;Caulobacteraceae;Caulobacter;Caulobacter sp. PeniS4C2	1
+FJ880499.1.1492 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Oscillibacter;uncultured bacterium	1
+FJ879093.1.1490 Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 2;uncultured bacterium	1
+AB218333.1.1450 Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Rikenellaceae;Alistipes;uncultured Bacteroidaceae bacterium	1
+CDFH01096882.6173.8876 Eukaryota;Amoebozoa;Discosea;Longamoebia;Centramoebida;Acanthamoeba;Acanthamoeba astronyxis	1
