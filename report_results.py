@@ -28,9 +28,10 @@ def main():
     for specimen, count in matched_specimen_dict.items():
         unique_specimen_file.write(specimen + "\t" + str(count) + "\n")
 
-    # See which contigs didn't match any reference
+    # Separate out the contigs by identified and unidentified contigs
     contig_file = open("/Users/m006703/Class/CSCI5481/Final_Project/final_contigs_rna.fasta", "r")
     unidentified_contig_file = open("/Users/m006703/Class/CSCI5481/Final_Project/unidentified_contigs_rna.fasta", "w")
+    identified_contig_file = open("/Users/m006703/Class/CSCI5481/Final_Project/identified_contigs_rna.fasta", "w")
 
     contig_list = []
     sequence_list = []
@@ -44,16 +45,17 @@ def main():
 
     # See if contigs were matched with the ref sequence, if not write it to the unidentified contigs file
     for contig in contig_list:
+        index_in_list = contig_list.index(contig)
         if contig in matched_contigs_list:
-            continue
+            identified_contig_file.write(">" + contig + "\n" + sequence_list[index_in_list] + "\n")
         else:
-            index_in_list = contig_list.index(contig)
             unidentified_contig_file.write(">" + contig + "\n" + sequence_list[index_in_list] + "\n")
 
     result_file.close()
     unique_specimen_file.close()
     contig_file.close()
     unidentified_contig_file.close()
+    identified_contig_file.close()
 
 
 if __name__ == "__main__":
