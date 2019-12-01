@@ -63,7 +63,7 @@ echo "Done running transcribe_dna.py"
 
 # Run burst
 echo "Running burst"
-CMD="${BURST} -r ${OUT_DIR}/SILVA_132_SSURef_tax_silva_trunc_no_new_lines.fasta -q ${OUT_DIR}/final_contigs_rna.fasta, \
+CMD="${BURST} -r ${OUT_DIR}/SILVA_132_SSURef_tax_silva_trunc_no_new_lines.fasta -q ${OUT_DIR}/final_contigs_rna.fasta \
 -o ${OUT_DIR}/results.txt"
 echo "Running command: ${CMD}"
 ${CMD}
