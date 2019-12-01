@@ -45,6 +45,7 @@ done
 
 INPUT_DIR=${INPUT_DIR%/}
 OUT_DIR=${OUT_DIR%/}
+BURST=${INPUT_DIR}/burst
 
 # Remove the new lines from the input contig fasta and the reference fasta
 echo "Running remove_new_lines.py"
@@ -59,3 +60,12 @@ CMD="${PYTHON} ${INPUT_DIR}/transcribe_dna.py -i ${OUT_DIR}/final_contigs_no_new
 echo "Running command: ${CMD}"
 ${CMD}
 echo "Done running transcribe_dna.py"
+
+# Run burst
+echo "Running burst"
+#FIXME
+#Change the reference file to the real reference file after testing
+CMD="${BURST} -r ${OUT_DIR}/Test_Ref_file.fasta -q ${OUT_DIR}/final_contigs_rna.fasta, -o ${OUT_DIR}/results.txt"
+echo "Running command: ${CMD}"
+${CMD}
+echo "Done running burst"
