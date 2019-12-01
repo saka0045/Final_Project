@@ -63,9 +63,8 @@ echo "Done running transcribe_dna.py"
 
 # Run burst
 echo "Running burst"
-#FIXME
-#Change the reference file to the real reference file after testing
-CMD="${BURST} -r ${OUT_DIR}/Test_Ref_file.fasta -q ${OUT_DIR}/final_contigs_rna.fasta, -o ${OUT_DIR}/results.txt"
+CMD="${BURST} -r ${OUT_DIR}/SILVA_132_SSURef_tax_silva_trunc_no_new_lines.fasta -q ${OUT_DIR}/final_contigs_rna.fasta, \
+-o ${OUT_DIR}/results.txt"
 echo "Running command: ${CMD}"
 ${CMD}
 echo "Done running burst"
