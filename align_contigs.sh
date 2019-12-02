@@ -68,3 +68,13 @@ CMD="${BURST} -r ${OUT_DIR}/SILVA_132_SSURef_tax_silva_trunc_no_new_lines.fasta 
 echo "Running command: ${CMD}"
 ${CMD}
 echo "Done running burst"
+
+# Report the results
+echo "Running report_results.py"
+CMD="${PYTHON} ${INPUT_DIR}/report_results.py -i ${OUT_DIR}/final_contigs_rna.fasta -r ${OUT_DIR}/results.txt \
+-o ${OUT_DIR}"
+echo "Running command: ${CMD}"
+${CMD}
+echo "Done running report_results.py"
+
+echo "Script is done running. All results are saved in ${OUT_DIR}"
